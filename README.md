@@ -11,6 +11,10 @@ Forma de entrega:
 
 Se espera que se envíe un link a un repositorio público que contenga el Diagrama de clases propuesto y todo lo que se considere necesario/lo que solicite el dominio. 
 Ambos integrantes del par deberán entregar la tarea, mencionando en el readme quiénes son los integrantes.
+-----------------------------------------------------------------------------------------------
+Integrantes:
+ - Martin Gonzalo Larrart
+ - Jasson A. Morales Rodriguez
 
 -------------------------------------------------------------------------------------------------
 Punto 1.- 
