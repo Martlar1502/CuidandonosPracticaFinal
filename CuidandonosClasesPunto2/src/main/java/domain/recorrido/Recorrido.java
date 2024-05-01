@@ -1,4 +1,4 @@
-package domain;
+package domain.recorrido;
 
 import domain.direccion.CalculadorDeDistancia;
 import domain.direccion.ControladorDeTiempo;

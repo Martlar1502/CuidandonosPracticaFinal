@@ -1,5 +1,5 @@
-import domain.ControlEnParada;
-import domain.Recorrido;
+package domain.recorrido;
+
 import domain.direccion.CalculadorDeDistancia;
 
 import java.util.List;

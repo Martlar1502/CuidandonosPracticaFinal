@@ -1,10 +1,8 @@
-package domain;
+package domain.recorrido;
 
 import domain.direccion.CalculadorDeDistancia;
 
 import java.util.List;
-
-import static java.lang.Integer.sum;
 
 public class ConDemora implements ControlEnParada{
     private List<Integer> minutosDetencionPorParada;
