@@ -29,3 +29,13 @@ Lo pensamos a este nuevo requerimiento (destino con varias paradas) como una com
 
 **Aclaración: viendo este nuevo requerimiento, nos damos cuenta de que estaría bueno incorporar una interfaz CalculadorDeDemora, para que no sea un problema las distintas formas que pueden prosentarse sobre este item.
 
+Cálculo de Demora Aproximado:
+
+demoraAproximada(CalculadorDeDistancia)
+	 se recorre por la lista de Recorridos, tantas veces como destino tenga
+		  por cada sección se calcula la demora como en un recorrido simple y se acumula este valor
+		  se suma la cantidad de minutos a deternerse en cada parada si corresponde
+		
+	 devolvemos el resultado acumulado de todos los incrementos
+
+  
